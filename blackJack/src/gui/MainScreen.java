@@ -1,7 +1,7 @@
 package gui;
 
 
-import gui.main;
+
 import java.awt.CardLayout;
 import java.awt.Toolkit;
 import java.io.IOException;
